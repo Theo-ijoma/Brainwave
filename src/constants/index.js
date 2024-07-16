@@ -305,19 +305,19 @@ export const socials = [
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "",
+    url: "https://x.com/theo_ijoma",
   },
   {
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://www.instagram.com/theooijoma/",
   },
   {
     id: "3",
     title: "Telegram",
     iconUrl: telegram,
-    url: "#",
+    url: "https://www.linkedin.com/in/theodore-ijoma/",
   },
   {
     id: "4",
